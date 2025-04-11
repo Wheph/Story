@@ -1,1 +1,6 @@
-I don't know what we're doing, but I'm sure I'll find out.
+I don't know what we're doing, but I'm sure I'll find out. 
+Found out! Learning all about using git. 
+So far:
+Branching
+Cloning
+Ignoring
